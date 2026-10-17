@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Waystone Mental Health Counseling | Liane Brust, MA, LMHC",
+      "hasCanvas": false,
+      "bodyTextLen": 7995,
+      "bodyTextHash": "f3fa6f34050beae61a457c6ecc9e44d931d35ffc00b4ef0bc368184534b751ae",
+      "bodyTextPrefix": "Skip to content Virtual only. Now accepting new individual and c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Waystone Mental Health Counseling | Liane Brust, MA, LMHC",
+      "hasCanvas": false,
+      "bodyTextLen": 7917,
+      "bodyTextHash": "c89ec4d28eb674e3e6f3c6715e800331532f40f980e52b0ed920323a8d90bc13",
+      "bodyTextPrefix": "Skip to content Virtual only. Now accepting new individual and c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

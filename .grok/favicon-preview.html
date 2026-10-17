@@ -1,0 +1,21 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>favicon preview</title>
+<style>
+  html, body { margin: 0; background: #8a8a8a; }
+  .row { display: flex; gap: 24px; align-items: end; padding: 24px; background: #cfcfcf; }
+  .dark { background: #1c1c1c; }
+  img { image-rendering: pixelated; display: block; background: transparent; }
+  figcaption { font: 12px sans-serif; color: #222; margin-top: 6px; }
+  .dark figcaption { color: #eee; }
+</style>
+<div class="row">
+  <figure><img src="favicon.svg" width="16" height="16"><figcaption>16 light</figcaption></figure>
+  <figure><img src="favicon.svg" width="32" height="32"><figcaption>32 light</figcaption></figure>
+  <figure><img src="favicon.svg" width="64" height="64"><figcaption>64 light</figcaption></figure>
+</div>
+<div class="row dark">
+  <figure><img src="favicon.svg" width="16" height="16"><figcaption>16 dark</figcaption></figure>
+  <figure><img src="favicon.svg" width="32" height="32"><figcaption>32 dark</figcaption></figure>
+  <figure><img src="favicon.svg" width="180" height="180"><figcaption>180 dark</figcaption></figure>
+</div>
